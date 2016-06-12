@@ -22,4 +22,4 @@
 * c. Generate required R plots: (see uploaded files)
 
 ## Uploaded files 
-* In this repository, four plot files (.png) and their related R codes will be uploaded to the folder. 
+* In this repository, four plot files (.png) and those related R codes (5 codes) will be uploaded to the folder. 
